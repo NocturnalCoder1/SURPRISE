@@ -2,7 +2,7 @@
 
 
 .kilig img{
-				width: 100px;
+				width: 300px;
 }
 
 .kilig{
@@ -10,5 +10,5 @@
 				
 				align-items: center;
 				flex-direction: column;
-				gap:1em;
+				gap:3em;
 }
